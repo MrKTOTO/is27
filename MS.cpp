@@ -20,3 +20,4 @@ int main()
     int res=raschet(dannye);
     vyvod(res);
 }
+//
