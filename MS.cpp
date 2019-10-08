@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void vvod dan ()
+void vvod ;dan ()
 
 {
 
@@ -20,3 +20,4 @@ int main()
     int res=raschet(dannye);
     vyvod(res);
 }
+//
