@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void vvod dan ()
+void vvod ;dan ()
 
 {
 
