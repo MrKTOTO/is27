@@ -25,11 +25,15 @@ void vyvod()
 
 
 }
-int main()
-{
-    int dannye[];
-    vvod_dan(dannye);
-    int res=raschet(dannye);
-    vyvod(res);
-}
+// БАН, нельзя писать свои  MAIN !!!!!
+// БАН, нельзя писать свои  MAIN !!!!!
+// БАН, нельзя писать свои  MAIN !!!!!
+// БАН, нельзя писать свои  MAIN !!!!!
+// int main()
+// {
+//     int dannye[];
+//     vvod_dan(dannye);
+//     int res=raschet(dannye);
+//     vyvod(res);
+// }
 
