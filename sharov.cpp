@@ -272,7 +272,7 @@ void poka()
 {
     printf("Пока");
 }
-int sharov(void)
+int sharov(int argc, char** argv)
 {
     privet();
     poka();
