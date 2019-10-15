@@ -272,7 +272,7 @@ void poka()
 {
     printf("Пока");
 }
-int manin(void)
+int sharov(void)
 {
     privet();
     poka();
