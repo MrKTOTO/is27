@@ -4,11 +4,12 @@
 
 #include <iostream>
 #include <cmath>
-#include "sharov.cpp"
+
 //#include "MS.cpp"
 //#include "svyatov.cpp"
 //#include "zhdanov.cpp"
-#include "manin.cpp"
+//#include "manin.cpp"
+#include "header.h"
 
 using namespace std;
 
