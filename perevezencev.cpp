@@ -6,26 +6,21 @@
 
 using namespace std;
 
-void vvod()
+void a()
 {
-
+    printf('1');
 }
 
-void raschet()
+void b()
 {
-
+printf('2');
 }
 
-void vyvod()
+int vah()
 {
-
-}
-
-int main()
-{
-    data=vvod();
-    result=raschet(data);
-    vyvod(result);
+    a;
+    b;
+    return 0;
 }
 
 
