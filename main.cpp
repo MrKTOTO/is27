@@ -5,9 +5,9 @@
 #include <iostream>
 #include <cmath>
 #include "sharov.cpp"
-#include "MS.cpp"
-#include "svyatov.cpp"
-#include "zhdanov.cpp"
+//#include "MS.cpp"
+//#include "svyatov.cpp"
+//#include "zhdanov.cpp"
 #include "manin.cpp"
 
 using namespace std;
