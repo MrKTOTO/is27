@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
@@ -258,4 +258,23 @@ void write_file()
     }
     cout << "\nbyte write= " << ftell(fd) << endl;
     fclose(fd);
+}*/
+
+#include <iostream>
+
+using namespace std;
+
+void privet()
+{
+    printf("Привет");
+}
+void poka()
+{
+    printf("Пока");
+}
+int manin(void)
+{
+    privet();
+    poka();
+    return 0;
 }
