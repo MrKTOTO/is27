@@ -5,10 +5,6 @@
 #include <iostream>
 #include <cmath>
 
-//#include "MS.cpp"
-//#include "svyatov.cpp"
-//#include "zhdanov.cpp"
-//#include "manin.cpp"
 #include "header.h"
 
 using namespace std;
@@ -17,13 +13,7 @@ int main(){
     setlocale(LC_ALL, "russian");
     string func_name;
     auto *names = new char[8];
-
-    int gg;
-    char gg2[10];
     gg = 1;
-
-    cout<<"что-то"<<endl;
-    cin>>gg2;
 
     cout<<"Введите название нужной вам функции"<<endl;
     cin>>func_name;
@@ -37,7 +27,7 @@ int main(){
     {
         case 1:
         {
-            sharov(gg, reinterpret_cast<char **>(gg2));
+            sharov(gg, gg2);
             break;
         }
 

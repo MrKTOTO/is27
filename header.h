@@ -7,4 +7,9 @@
 
 #endif //UNTITLED2_HEADER_H
 
-int sharov(gg, reinterpret_cast<char **>(gg2));
+int gg;
+char** gg2;
+
+int sharov(int, char**);
+
+
