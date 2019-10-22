@@ -8,5 +8,5 @@ add_executable(sharov src/main.cpp src/sharov.cpp)
 add_executable(svyatov src/main.cpp src/svyatov.cpp)
 add_executable(zhdanov src/main.cpp src/zhdanov.cpp)
 add_executable(sulaimonov src/main.cpp src/MS.cpp)
-add_executable(main src/main.cpp src/main.cpp src/peshehonov.cpp)
+add_executable(main src/main.cpp src/main.cpp)
 

@@ -15,10 +15,6 @@ int main(){
     auto *names = new char[8];
     gg = 1;
 
-    cout<<"Введите название нужной вам функции"<<endl;
-    cin>>func_name;
-    cout<<func_name<<endl;
-
     int N;
     cout <<"Выберите функцию:" <<endl;
     cout <<"1.sharov\n";
