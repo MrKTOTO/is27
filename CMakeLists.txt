@@ -4,7 +4,7 @@ project(untitled2)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(main main.cpp header.h)
-add_executable(sharov main.cpp sharov.cpp)
+add_executable(sharov main.cpp sharov.cpp averyanova.cpp)
 add_executable(svyatov main.cpp svyatov.cpp)
 add_executable(zhdanov main.cpp zhdanov.cpp)
 add_executable(sulaimonov main.cpp MS.cpp)
