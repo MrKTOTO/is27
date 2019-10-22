@@ -124,6 +124,7 @@ void countColors()
 
 using namespace std;
 
+/*
 void privet()
 {
     printf("Привет");
@@ -132,9 +133,14 @@ void poka()
 {
     printf("Пока");
 }
-int peshehonov(int argc, char** argv)
+*/
+
+void ku()
 {
-    privet();
-    poka();
+    printf("pesh");
+}
+int peshehonov()
+{
+    ku();
     return 0;
 }

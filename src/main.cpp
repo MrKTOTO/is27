@@ -17,13 +17,19 @@ int main(){
 
     int N;
     cout <<"Выберите функцию:" <<endl;
-    cout <<"1.sharov\n";
+    cout <<"1.sharov\n"
+           "2.peshehonov\n";
     cin >>N;
     switch (N)
     {
         case 1:
         {
             sharov(gg, gg2);
+            break;
+        }
+        case 2:
+        {
+            peshehonov();
             break;
         }
 
