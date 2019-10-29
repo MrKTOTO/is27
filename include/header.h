@@ -1,5 +1,5 @@
 //
-// Created by sharov27 on 10/15/19.
+// файл, где объявляем все фyнкции и переменные
 //
 
 #ifndef UNTITLED2_HEADER_H
