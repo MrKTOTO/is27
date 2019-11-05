@@ -18,7 +18,8 @@ int main(){
     int N;
     cout <<"Выберите функцию:" <<endl;
     cout <<"1.sharov\n"
-           "2.peshehonov\n";
+           "2.peshehonov\n"
+           "3.manin\n";
     cin >>N;
     switch (N)
     {
@@ -30,6 +31,11 @@ int main(){
         case 2:
         {
             peshehonov();
+            break;
+        }
+        case 3:
+        {
+            manin();
             break;
         }
 

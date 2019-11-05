@@ -12,5 +12,5 @@ char** gg2;
 
 int sharov(int, char**);
 int peshehonov();
-
+int manin();
 
