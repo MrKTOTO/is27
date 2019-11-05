@@ -13,4 +13,12 @@ char** gg2;
 int sharov(int, char**);
 int peshehonov();
 int manin();
+/*int perevezencev();
+int Puhov_Create();
+
+int galanin();
+int averyanova();
+int MS();
+int svyatov();
+int zhdanov();*/
 

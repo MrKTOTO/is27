@@ -8,12 +8,12 @@ using namespace std;
 
 void a()
 {
-    printf('1');
+    printf("1");
 }
 
 void b()
 {
-printf('2');
+printf("2");
 }
 
 int vah()

@@ -2,7 +2,8 @@
 
 using namespace std;
 
-void funk ()
+int funk ()
 {
     cout<<"Я фyнкция меня вызвали."<<endl;
+    return 0;
 }
