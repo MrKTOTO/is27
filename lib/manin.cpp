@@ -2,17 +2,17 @@
 
 using namespace std;
 
-void privet()
+void pr()
 {
 printf("Привет");
 }
-void poka()
+void pok()
 {
 printf("Пока");
 }
 int manin(void)
  {
-    privet();
-    poka();
+    pr();
+    pok();
     return 0;
  }
